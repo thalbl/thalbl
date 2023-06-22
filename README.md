@@ -9,6 +9,7 @@
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
+<br/>
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![C#](https://img.shields.io/badge/-CS-333333?style=flat&logo=c#)
   ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
