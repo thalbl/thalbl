@@ -29,8 +29,8 @@
 **Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)
-  ![Visual Studio](https://img.shields.io/badge/broken%20vscode-badge-blue.svg?logo=visualstudiocode)
+  ![Unity](https://img.shields.io/badge/unity-badge-blue.svg?logo=unity)
+  ![Visual Studio](https://img.shields.io/badge/vscode-badge-blue.svg?logo=visualstudiocode)
 
 <br/>
 
