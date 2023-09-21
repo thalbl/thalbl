@@ -10,7 +10,7 @@
 
 **Aplications and Data**
 <br/>
-  ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++)
+  ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c++)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![C#](https://img.shields.io/badge/-CS-333333?style=flat&logo=c#)
   ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
