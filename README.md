@@ -1,15 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=thalbl&color=006bed)
 
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;About me</h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Ciências Matemáticas e da Terra** na <a href="https://ufrj.br/">UFRJ</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **C# e Web Development**.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying **Computer Science** in <a href="https://ufrj.br/">UFRJ</a>.
+- 🌱 &nbsp; Learning about **C++, Game Development and Web Development**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
-**Aplicações e Dados**
+**Aplications and Data**
 <br/>
+  ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![C#](https://img.shields.io/badge/-CS-333333?style=flat&logo=c#)
   ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
@@ -25,9 +26,11 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)
+  ![Visual Studio](https://img.shields.io/badge/broken%20vscode-badge-blue.svg?logo=visualstudiocode)
 
 <br/>
 
@@ -38,7 +41,7 @@
 <br/>
  
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Contact me: </h3> 
 
 [![Linkedin: Thalisson Braga](https://img.shields.io/badge/-thalbl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalisson-braga/)](https://www.linkedin.com/in/thalisson-braga/)
 [![Gmail Badge](https://img.shields.io/badge/-thalisson.braga1028@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thalisson.braga1028@gmail.com)](mailto:thalisson.braga1028@gmail.com)
