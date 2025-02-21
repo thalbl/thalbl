@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying **Computer Science** in <a href="https://ufrj.br/">UFRJ</a>.
-- 🌱 &nbsp; Learning about **C++, Game Development and Web Development**.
+- 🌱 &nbsp; Learning about **C++, .NET, Game Development and Web Development**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
